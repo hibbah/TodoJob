@@ -37,6 +37,7 @@ public class HibbahUtils {
                     Log.e(TAG, "getGoogleAdvertisingId() | IOException.", e);
                 }
                 return adInfo;
+                
             }
 
             @Override
